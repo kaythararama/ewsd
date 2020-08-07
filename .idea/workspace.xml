@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcf4d23c-78bf-47ea-ad2c-378e70479081" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ewsd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removing_variable_value.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1flWgEtu5r1xo78Dj976LP3DScs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcf4d23c-78bf-47ea-ad2c-378e70479081" name="Default Changelist" comment="" />
+      <created>1596793268694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596793268694</updated>
+      <workItem from="1596793269792" duration="5301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="266" key="Github.ShareDialog" timestamp="1596798658209">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="561" y="266" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1596798658209" />
+    <state x="545" y="71" key="Github.UntrackedFilesDialog" timestamp="1596798668079">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="545" y="71" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1596798668079" />
+    <state x="471" y="273" key="NewPhpFileDialog" timestamp="1596798154664">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="471" y="273" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1596798154664" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1596795296721">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1596795296721" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1596798699950">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1596798699950" />
+  </component>
+</project>
