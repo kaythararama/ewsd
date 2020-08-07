@@ -8,4 +8,3 @@ echo "<br>".$string;
 $string=_;
 echo "<br>After Remove the value of string variable ".$string;
 ?>
-
