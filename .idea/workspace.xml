@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcf4d23c-78bf-47ea-ad2c-378e70479081" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ewsd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file6.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removing_variable_value.php" afterDir="false" />
+    <list default="true" id="bcf4d23c-78bf-47ea-ad2c-378e70479081" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/changing_data_type.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparisons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_type.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_operators.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +56,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596793268694</updated>
-      <workItem from="1596793269792" duration="5301000" />
+      <workItem from="1596793269792" duration="6091000" />
+      <workItem from="1597397615270" duration="6185000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1596798796674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596798796674</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1596798884136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596798884136</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597400225591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="414" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1597400225591" />
     <state x="561" y="266" key="Github.ShareDialog" timestamp="1596798658209">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -60,17 +121,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="545" y="71" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1596798668079" />
-    <state x="471" y="273" key="NewPhpFileDialog" timestamp="1596798154664">
+    <state x="471" y="273" key="NewPhpFileDialog" timestamp="1597403594760">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="471" y="273" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1596798154664" />
+    <state x="471" y="273" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1597403594760" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1596795296721">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1596795296721" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1596798699950">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1596798885628">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1596798699950" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1596798885628" />
   </component>
 </project>
